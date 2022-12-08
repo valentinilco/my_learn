@@ -17,7 +17,7 @@ This work is licensed under a
 
 This document is a collection of resources for learning embedded systems engineering.
 
-[ ] [Article: "Introduction", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/introduction)
+[x] [Article: "Introduction", Barr Group](https://barrgroup.com/embedded-systems/books/programming-embedded-systems/introduction)
 
 [ ] [Video: "Embedded Systems Overview", YouTube](https://www.youtube.com/watch?v=KfFBEBN5UHU&list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm&index=1)
 
