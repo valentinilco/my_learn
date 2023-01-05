@@ -399,7 +399,7 @@ This document is a collection of resources for learning embedded systems enginee
     - [ ] [Article: "Inline Functions In C", greenend](https://www.greenend.org.uk/rjk/tech/inline.html)
 
 ### Watchdog Timer
-- [ ] [Article: "Introduction to Watchdog Timers", Embedded](https://www.embedded.com/introduction-to-watchdog-timers/)
+- [x] [Article: "Introduction to Watchdog Timers", Embedded](https://www.embedded.com/introduction-to-watchdog-timers/)
 
 ### Memory Alignment
 - [ ] [Video: "Memory Alignment", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/5-memory-alignment-mx2ts)
