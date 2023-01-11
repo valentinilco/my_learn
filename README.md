@@ -178,7 +178,7 @@ This document is a collection of resources for learning embedded systems enginee
 - #### Endianness
     - [ ] [Article: "Big Endian, Little Endian, Endianness: Understanding Byte Arrangements in Digital Systems", All About Circuits ](https://www.allaboutcircuits.com/technical-articles/big-endian-little-endian-endianness-byte-arrangement-digital-systems/)
 
-    - [ ] [Video: "Endianness", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/6-endianness-wRbAs)
+    - [x] [Video: "Endianness", Coursera](https://www.coursera.org/lecture/embedded-software-hardware/6-endianness-wRbAs)
 
 ### Embedded Platforms
 - #### Microcontroller
